@@ -4,7 +4,7 @@
 ?>
 <!DOCTYPE html>
 <html>
-<head> 
+<head>
 	<title>AlphaWare</title>
 	<link rel="icon" href="img/logo.jpg" />
 	<link rel = "stylesheet" type = "text/css" href="css/style.css" media="all">
@@ -128,5 +128,6 @@
 	</div>
 </body>
 </html>
+
 
 
