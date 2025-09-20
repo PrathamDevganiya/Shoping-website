@@ -104,12 +104,11 @@
 							</table>	
 						</center>
 					</form>
-				</div>
-				
-						
+				</div>						
 			
 	<br>
 
 </div>
 </body>
+
 </html>
